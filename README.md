@@ -27,7 +27,7 @@ At end candidate with maximum votes is declared winner.
 Running procedure:
 
 1.Clone following github repository:
-
+https://github.com/MuhammadSaad777/ELECTRONIC-VOTING-SYSTEM-CIRCUITBASED-LOGICWORKS
 
 Open project in LogicWorks
 
